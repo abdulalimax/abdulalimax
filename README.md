@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Abdul%20Alim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Email:%20abdulalim.nx@gmail.com&descSize=14&descColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Abdul%20Alim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Email:%20abdulalimx01@gmail.com&descSize=14&descColor=38bdf8" width="100%" />
 </div>
 
 <div align="center">
@@ -74,8 +74,8 @@
 
 ### 📬 PROFESSIONAL INQUIRIES & CONNECTIVITY
 
-- 🌐 **Portfolio Showcase:** [abdulalim-portfolio.vercel.app](https://abdulalim-portfolio.vercel.app)
-- 💼 **Professional Network:** [Md. Abdul Alim (LinkedIn)](https://www.linkedin.com/in/md-abdul-alim-a0b7943b8/)
-- ✉️ **Corporate Email:** [abdulalim.nx@gmail.com](mailto:abdulalim.nx@gmail.com)
+- 🌐 **Portfolio Showcase:** [abdul-alim-portfolio.vercel.app](https://abdul-alim-portfolio.vercel.app)
+- 💼 **Professional Network:** [Md. Abdul Alim (LinkedIn)](https://www.linkedin.com/in/md-abdul-alim007/)
+- ✉️ **Corporate Email:** [abdulalimx01@gmail.com](mailto:abdulalimx01@gmail.com)
 - 📞 **Direct Contact / WhatsApp:** +880 1313-382308
 - 💬 *Open to high-impact full-stack engineering roles, enterprise collaborations, and technical consultations.*
