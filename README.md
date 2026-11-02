@@ -10,11 +10,29 @@
 
 ---
 
-### 👋 ABOUT ME
+### 👋 ABOUT ME & PROFESSIONAL PROFILE
 
 - 💡 Passionate Full Stack Developer specializing in building scalable web applications, secure RESTful APIs, and high-performance system architectures.
 - 🚀 Core expertise in modern technologies including React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, and Tailwind CSS.
-- 🎯 Dedicated to writing clean, modular code and architecting reliable digital solutions.
+- 🎯 Dedicated to writing clean, modular code, enforcing strict type-safety, and architecting reliable digital solutions that solve real-world problems.
+
+---
+
+### 💻 PROFESSIONAL PHILOSOPHY & CODING STANDARDS
+
+- 🔹 **Clean Architecture:** Designing decoupled, modular backend services and frontend components that scale effortlessly.
+- 🔹 **Security First:** Implementing robust JWT authentication, password hashing, and input validation (Zod) to prevent vulnerabilities.
+- 🔹 **Performance Optimization:** Utilizing efficient database indexing, connection pooling, and optimized asset delivery for sub-second load times.
+- 🔹 **User-Centric UI/UX:** Crafting responsive, accessible, and fluid user interfaces inspired by modern design systems.
+
+---
+
+### 🚀 WHAT I'M LEARNING & EXPLORING
+
+- 🔭 **Current Focus:** Deepening expertise in advanced Next.js App Router patterns, Server Actions, and robust state management.
+- ⚡ **Exploring & Experimenting:** Building production-grade microservices and real-time communication systems.
+- 🌱 **Currently Learning:** Advanced Database Indexing, Query Optimization, and Cloud Deployment strategies (Docker & AWS).
+- 🎯 **Future Goals:** Architecting million-scale SaaS platforms and exploring innovative software solutions.
 
 ---
 
