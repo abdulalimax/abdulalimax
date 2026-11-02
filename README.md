@@ -1,24 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Abdul%20Alim&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=16&descColor=38bdf8" width="100%" />
+  <img src="https://raw.githubusercontent.com/abdulalimax/abdulalimax/main/image_4.png" alt="Md. Abdul Alim Banner" width="100%">
 </div>
 
-### 👋 Hi, I'm Md. Abdul Alim
+# Hi 👋, I'm Md. Abdul Alim
 
-- 🌱 I'm currently a final-year Computer Science & Engineering (CSE) undergraduate at **Netrokona University**.
-- 💡 Passionate about building robust, secure, and scalable full-stack web applications with clean architecture.
-- 🚀 Always eager to learn advanced system design, cloud architecture, and modern web frameworks.
+### 🚀 Full-Stack Software Engineer & Tech Innovator
+
+I am a passionate Full-Stack Software Engineer and final-year Computer Science & Engineering undergraduate at **Netrokona University**. I specialize in building enterprise-grade web applications, secure RESTful backends, and scalable database architectures with clean, modular code.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌐 CONNECT WITH ME ON SOCIAIS:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgresql,mongodb,prisma,git,github,vscode,vercel" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-abdul-alim-a0b7943b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/abdulalimax" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://wa.me/8801313382308" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%252325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:abdulalim.nx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🛠️ TECHNOLOGY STACK:
+
+**Languages:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,sql" />
+</div>
+
+**Frontend Frameworks & Libraries:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</div>
+
+**Backend & Server:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+**Database & Modeling:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,prisma" />
+</div>
+
+**Tools, DevOps & Platforms:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+</div>
+
+---
+
+### 📊 GITHUB STATS & ACTIVITY:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulalimax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14" height="180" />
@@ -26,28 +58,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimax&theme=tokyonight&hide_border=true&background=0d0d14" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulalimax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14" />
 </div>
 
 ---
 
-### 📬 Connect With Me
-
-- **Portfolio:** [abdulalim-portfolio.vercel.app](https://abdulalim-portfolio.vercel.app)
-- **LinkedIn:** [Md. Abdul Alim](https://www.linkedin.com/in/md-abdul-alim-a0b7943b8/)
-- **Email:** abdulalim.nx@gmail.com## Hi there 👋
-
-<!--
-**abdulalimax/abdulalimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 EXPLORE MORE:
+- 🌐 **Portfolio Website:** [abdulalim-portfolio.vercel.app](https://abdulalim-portfolio.vercel.app)
+- 📄 **Resume:** Download directly from my portfolio or contact me via email.
