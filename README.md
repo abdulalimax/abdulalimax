@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Abdul%20Alim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CSE%20Undergraduate&descSize=16&descColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Abdul%20Alim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Email:%20abdulalim.nx@gmail.com%20|%20Phone:+8801313382308&descSize=14&descColor=38bdf8" width="100%" />
 </div>
 
 <div align="center">
@@ -12,10 +12,9 @@
 
 ### 👋 ABOUT ME
 
-- 🌱 I am a final-year Computer Science & Engineering (CSE) undergraduate at **Netrokona University**[cite: 3].
 - 💡 Passionate Full Stack Developer specializing in building scalable web applications, secure RESTful APIs, and high-performance system architectures.
-- 🚀 Focused on writing clean, modular code with modern technologies like React, Next.js, Node.js, PostgreSQL, and Prisma.
-- 🎯 Aspiring to architect million-scale SaaS solutions and high-impact digital innovations.
+- 🚀 Core expertise in modern technologies including React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, and Tailwind CSS.
+- 🎯 Dedicated to writing clean, modular code and architecting reliable digital solutions.
 
 ---
 
@@ -57,7 +56,8 @@
 
 ### 📬 CONNECT & COLLABORATE
 
-- 🌐 **Live Portfolio:** [abdulalim-portfolio.vercel.app](https://abdulalim-portfolio.vercel.app)[cite: 3]
+- 🌐 **Live Portfolio:** [abdulalim-portfolio.vercel.app](https://abdulalim-portfolio.vercel.app)
 - 💼 **LinkedIn:** [Md. Abdul Alim](https://www.linkedin.com/in/md-abdul-alim-a0b7943b8/)
 - ✉️ **Direct Email:** [abdulalim.nx@gmail.com](mailto:abdulalim.nx@gmail.com)
+- 📞 **Mobile/WhatsApp:** +880 1313-382308
 - 💬 *Feel free to reach out for full-stack opportunities, freelance collaborations, or technical discussions!*
